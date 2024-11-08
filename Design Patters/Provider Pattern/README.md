@@ -143,11 +143,11 @@ function Component() {
             {names.map((item,index) => (
                 <div key={index}>
                     {item}
-                    <RemoveButton name={item} setNames={setNames} />
+                    <RemoveButton name={item} />
                 </div>
             ))}
             <div>
-                <FormAdd setNames={setNames} />
+                <FormAdd />
             </div>
         </div>
     )

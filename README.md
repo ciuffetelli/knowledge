@@ -3,4 +3,6 @@
 This repository contains a collection of knowledge points that are organised and easy to consult.
 By Daniel Ciuffetelli
 
-[Design Patters](/Design%20Patters//README.md)
+- [Design Patters](/Design%20Patters//README.md)
+- [Tutorials](/Tutorials/README.md)
+- [Principles](/Principles/README.md)
